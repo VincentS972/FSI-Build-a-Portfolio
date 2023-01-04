@@ -4,8 +4,16 @@ h1 {
 body {
     background-color: antiquewhite;
 }
-div {
+div 
+{
     background-color: aquamarine;
     text-align: center;
     color: blue;
+}
+div
+{
+    line-height: 10in;
+    background-color: antiquewhite;
+    border-style: solid;
+
 }
