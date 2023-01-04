@@ -1,19 +1,45 @@
-h1 {
-    color: blue;
-}
-body {
-    background-color: antiquewhite;
-}
-div 
-{
-    background-color: aquamarine;
-    text-align: center;
-    color: blue;
-}
 div
 {
-    line-height: 10in;
-    background-color: antiquewhite;
+    line-height: 0.5in;
+    background-color: bisque;
     border-style: solid;
+    text-align: center;
+    font-style: oblique;
+    color:chocolate;
 
+}
+
+body
+{
+
+    background-color: beige;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+}
+
+h2
+{
+  color: brown;  
+  text-align:center;
+}
+
+h3 
+{ 
+   color: darkred;
+}
+
+img
+{
+    object-fit:fill;
+    width: 500px;
+    height: 300px;
+}
+
+p
+{
+    font-style: oblique;
 }
